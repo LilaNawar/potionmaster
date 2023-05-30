@@ -29,7 +29,6 @@ Lila: Upon the Heath.
 
 <hr />
 
-[Deployable link](https://potionnmasterr.herokuapp.com/)
 
 [Git Hub Code](https://github.com/Runite-Drill/potionmaster)
 
